@@ -1,0 +1,6 @@
+[submodule "porfolio-backend"]
+	path = portfolio-backend
+	url = https://github.com/huuphuoc1xx/porfolio-creator-be
+[submodule "porfolio-frontend"]
+	path = portfolio-frontend
+	url = https://github.com/huuphuoc1xx/porfolio-creator-fe
